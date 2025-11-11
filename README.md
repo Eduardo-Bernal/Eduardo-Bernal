@@ -4,12 +4,23 @@
 
 ---
 
-## Sobre mim
-Atualmente sou estudante do **Senai Paulo Skaf**, realizando o curso de Desenvolvimento de Sistemas.
+## 👨‍💻 Sobre mim
+Atualmente sou estudante do **Senai Paulo Skaf**, realizando o curso de **Desenvolvimento de Sistemas**.  
+Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções inteligentes.
 
 ---
 
-## 🔢 Contador de visitas  
+## 🔗 Contatos
+
+<div>
+  <a href="https://www.linkedin.com/in/eduardo-bernal-385282368" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+---
+
+## 🔢 Contador de Visitas  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Eduardo-Bernal&color=blueviolet&style=for-the-badge&label=Quantidade+de+Visitas"/>
 </div>
@@ -21,30 +32,51 @@ Atualmente sou estudante do **Senai Paulo Skaf**, realizando o curso de Desenvol
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eduardo-Bernal&layout=compact&langs_count=7&theme=dracula"/>
+
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eduardo-Bernal&show_icons=true&theme=dracula&count_private=true"/>
 
 </div>
 
 ---
 
+## 🚀 Projetos em destaque
+
+🔹 **Sistema de Login em C# com SQL Server**  
+✅ CRUD + autenticação + UI intuitiva
+
+🔹 **Portfólio em HTML/CSS/JS**  
+✅ Responsivo e moderno
+
+🔹 **Projetos Arduino**  
+✅ Eletrônica + programação
+
+---
+
 ## 🧰 Languages
 
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-  <img align="center" height="40" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
+
+  <!-- Extras -->
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 
 ---
@@ -58,7 +90,7 @@ Atualmente sou estudante do **Senai Paulo Skaf**, realizando o curso de Desenvol
 ---
 
 ## 🎓 Formação Acadêmica
-Cursando **2° Semestre** – Desenvolvimento de Sistemas  
-Escola **SENAI Paulo Skaf**
+📘 Cursando **2° Semestre** – Desenvolvimento de Sistemas  
+🏫 Escola **SENAI Paulo Skaf**
 
 ---
