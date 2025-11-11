@@ -1,6 +1,6 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=16EAF7&background=FF6C0000&random=false&width=435&lines=Seja+bem+vindo+ao+meu+perfil+GitHub!;Ol%C3%A1%2C+me+chamo+Eduardo!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=16EAF7&background=FF6C0000&random=false&width=435&lines=Seja+bem+vindo+ao+meu+perfil+GitHub!;Ol%C3%A1%2C+me+chamo+Eduardo+Bernal!" alt="Typing SVG" /></a>
 
 <div>
     <h2> Sobre mim </h2> 
@@ -49,7 +49,7 @@ Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Desenvolvi
 <div style="display: inline_block"><br>
     <h2> Tools </h2>
     <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-    <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <img align="center"  alt="figma logo" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)"/>
     <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg"/>
     <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
     <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
