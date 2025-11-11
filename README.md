@@ -88,4 +88,4 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções i
 
 ## 🎓 Formação
 📘 Cursando **2° Semestre** – Desenvolvimento de Sistemas  
-🏫 Escola **SENAI Paulo Skaf**
+🏫 Escola **SENAI Paulo Antonio Skaf**
