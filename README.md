@@ -1,4 +1,4 @@
-
+ar
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=16EAF7&background=FF6C0000&random=false&width=435&lines=Seja+bem+vindo+ao+meu+perfil+GitHub!;Ol%C3%A1%2C+me+chamo+Eduardo+Bernal!" alt="Typing SVG" /></a>
 
@@ -21,7 +21,7 @@ Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Desenvolvi
   
 <div align="center">
 <a href="https://github.com/Eduardo-Bernal">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kessiamilena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Bernal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Eduardo-Bernal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 </div>
     <br>
