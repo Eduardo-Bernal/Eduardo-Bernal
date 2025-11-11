@@ -20,12 +20,11 @@ Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Desenvolvi
 
   
 <div align="center">
-<a href="https://github.com/Eduardo-Bernal">
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Bernal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-(https://github-readme-stats.vercel.app/api?username=Eduardo-Bernal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<a href="https://github.com/odirlei-assis">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Bernal&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Bernal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     <br>
-
 <div style="display: inline_block"><br>
     <h2> Languages </h2> 
 <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
