@@ -21,8 +21,8 @@ Atualmente sou estudante do "Senai Paulo Skaf", realizando o curso de Desenvolvi
   
 <div align="center">
 <a href="https://github.com/Eduardo-Bernal">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Bernal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Eduardo-Bernal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Bernal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+(https://github-readme-stats.vercel.app/api?username=Eduardo-Bernal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 </div>
     <br>
 
