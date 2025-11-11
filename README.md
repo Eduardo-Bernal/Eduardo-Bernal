@@ -41,10 +41,10 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções i
 
 ## 🚀 Projetos em destaque
 
-🔹 **Sistema de Login em C# com SQL Server**  
-✅ CRUD + autenticação + UI intuitiva
+🔹 **Sistema de MVC em C# com SQL Server**  
+✅ CRUD + autenticação + UI intuitiva + Hospedado na AWS
 
-🔹 **Portfólio em HTML/CSS/JS**  
+🔹 **Paginas em HTML/CSS/JS**  
 ✅ Responsivo e moderno
 
 🔹 **Projetos Arduino**  
@@ -59,7 +59,6 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções i
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
 ---
@@ -74,7 +73,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções i
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 </div>
 
 ---
