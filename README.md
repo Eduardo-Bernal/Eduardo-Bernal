@@ -31,9 +31,9 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções i
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eduardo-Bernal&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Bernal&layout=compact&theme=dracula"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eduardo-Bernal&show_icons=true&theme=dracula&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Bernal&show_icons=true&theme=dracula"/>
 
 </div>
 
@@ -71,8 +71,6 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções i
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
-
-  <!-- Extras -->
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
@@ -89,8 +87,4 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções i
 
 ---
 
-## 🎓 Formação Acadêmica
-📘 Cursando **2° Semestre** – Desenvolvimento de Sistemas  
-🏫 Escola **SENAI Paulo Skaf**
-
----
+## 🎓 Formação
